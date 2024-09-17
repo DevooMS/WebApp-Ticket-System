@@ -1,0 +1,17 @@
+.nav-container { /* Un contenitore per racchiudere la navigazione */
+  background-color: #f8f9fa; /* Sfondo leggermente grigio */
+  border-radius: 8px; /* Angoli arrotondati */
+  padding: 1rem; /* Spaziatura interna */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Ombra sottile */
+}
+
+.nav-link { 
+  color: #343a40; /* Testo grigio scuro */
+  transition: color 0.3s ease, background-color 0.3s ease; /* Transizioni fluide */
+}
+
+.nav-link:hover {
+  color: #007bff; /* Testo blu al passaggio del mouse */
+  background-color: #e9ecef; /* Sfondo grigio chiaro al passaggio del mouse */
+}
+

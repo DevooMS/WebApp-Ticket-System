@@ -1,0 +1,55 @@
+[
+    {
+      "ticket_id": 1,
+      "title": "Issue with login",
+      "owner": "user1",
+      "category": "request",
+      "status": "open",
+      "timestamp": "2024-06-11 12:00:00",
+      "blocksOfText": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "timestamp": "2024-06-11 12:15:00",
+          "author": "user1"
+        }
+      ]
+    },
+    {
+      "ticket_id": 2,
+      "title": "Server downtime",
+      "owner": "user2",
+      "category": "maintenance",
+      "status": "open",
+      "timestamp": "2024-06-10 10:30:00",
+      "blocksOfText": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "timestamp": "2024-06-10 11:00:00",
+          "author": "user2"
+        },
+        {
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "timestamp": "2024-06-10 11:00:00",
+            "author": "user2"
+        }
+      ]
+    },
+    {
+      "ticket_id": 3,
+      "title": "Add dark mode",
+      "owner": "user1",
+      "category": "new feature",
+      "status": "open",
+      "timestamp": "2024-06-09 14:45:00",
+      "blocksOfText": []
+    },
+    {
+      "ticket_id": 4,
+      "title": "Billing inquiry",
+      "owner": "admin1",
+      "category": "administrative",
+      "status": "closed",
+      "timestamp": "2024-06-08 09:15:00",
+      "blocksOfText": []
+    }
+  ]

@@ -1,0 +1,33 @@
+
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+  
+  .App {
+    background-color: #282c34;
+    min-height: 100vh;
+   
+    
+    
+ 
+  }
+  
+  body{
+    background-color: #282c34;
+    color: white;
+  }
+  h1{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+  .App-link {
+    color: #61dafb;
+  }
+  .btn{
+    border-radius: 0 !important;
+  }
